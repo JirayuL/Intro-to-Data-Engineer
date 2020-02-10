@@ -28,7 +28,7 @@ And to exit virtualenv later:
 deactivate  # don't exit until you're done using TensorFlow
 ```
 
-3 Install python library to your virtual environment
+## 3 Install python library to your virtual environment
 ```shell
 pip install mysql-connector
 pip install apache-airflow
