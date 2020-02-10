@@ -25,7 +25,7 @@ pip list  # show packages installed within the virtual environment
 ```
 And to exit virtualenv later:
 ```shell
-deactivate  # don't exit until you're done using TensorFlow
+deactivate  # don't exit until you're done
 ```
 
 ## 3 Install python library to your virtual environment
